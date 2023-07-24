@@ -19,3 +19,6 @@ This library handles permissions from users and groups
 
 #### Groups
 This library handles groups of users
+
+#### Support
+This library includes a simple support system. (NOT USABLE AT THE MOMENT)
