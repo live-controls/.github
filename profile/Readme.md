@@ -1,6 +1,8 @@
 # Live Controls
 Live Controls is a collection of libraries used for Laravel and Livewire. Some of the libraries won't need Laravel or Livewire, but the requirement of every library will be shown inside their own Readme.md file.
 
+*Most of those libraries are NOT tested in a production scenario. They're made for it, but will be built while creating other projects.*
+
 ### Libraries
 #### Utils
 This library is used by some of the other libraries and will installed automatically over Composer if you install the other library, but you can use it as standalone if you want.
