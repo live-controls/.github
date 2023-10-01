@@ -28,5 +28,8 @@ This library includes a Sweet Alert implementation
 #### Masks
 This library adds input masks based on iMask
 
+#### Editor
+This library includes an EditorJS implementation
+
 #### Support
 This library includes a simple support system. (NOT USABLE AT THE MOMENT)
