@@ -31,5 +31,8 @@ This library adds input masks based on iMask
 #### Editor
 This library includes an EditorJS implementation
 
+#### API Login
+This library handles logins made from a centralized API. This helps to have a centralized login where modules can log into
+
 #### Support
 This library includes a simple support system. (NOT USABLE AT THE MOMENT)
