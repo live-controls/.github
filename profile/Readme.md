@@ -4,35 +4,26 @@ Live Controls is a collection of libraries used for Laravel and Livewire. Some o
 *Most of those libraries are NOT tested in a production scenario. They're made for it, but will be built while creating other projects.*
 
 ### Libraries
-#### Utils
+#### Utils (Battletested)
 This library is used by some of the other libraries and will installed automatically over Composer if you install the other library, but you can use it as standalone if you want.
 
-#### AutoAddress
+#### AutoAddress (Battletested)
 This library automatically adds the street, city, state etc. to an areacode based on informations from CEPAberto and other libraries. This is the successor of AutoCEP and should be used instead.
 
-#### Payment
+#### Payment (Battletested)
 This library includes helper classes for IUGU and PagSeguro. It is pretty much in alpha state and only the IUGU classes are battletested.
 
-#### Storage
+#### Storage (Battletested)
 Simple Object Storage library, can be seen as a small extension to Laravels Storage class
 
-#### Permissions
+#### Permissions (Battletested)
 This library handles permissions from users and groups
 
-#### Groups
+#### Groups (Battletested)
 This library handles groups of users
 
-#### Alerts
+#### Alerts (Legacy)
 This library includes a Sweet Alert implementation
 
-#### Masks
+#### Masks (Needs testing)
 This library adds input masks based on iMask
-
-#### Editor
-This library includes an EditorJS implementation
-
-#### API Login
-This library handles logins made from a centralized API. This helps to have a centralized login where modules can log into
-
-#### Support
-This library includes a simple support system. (NOT USABLE AT THE MOMENT)
